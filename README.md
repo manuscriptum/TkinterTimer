@@ -1,4 +1,4 @@
-TinkerTimer
-===========
+TKinterTimer
+============
 
-A simple pomodoro timer written in python with Tinker
+A simple pomodoro timer written in python with Tkinter
